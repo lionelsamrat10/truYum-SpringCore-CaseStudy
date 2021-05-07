@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: user
+Build-Jdk: 15.0.2
+Implementation-Title: truyum-spring
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.cognizant
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
